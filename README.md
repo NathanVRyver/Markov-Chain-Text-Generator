@@ -1,5 +1,8 @@
 # Markov Chain Text Generator
 
+
+Note: Wrote this during a stream =)
+
 A simple bigram-based text generator that learns from a corpus and produces new text with similar statistical properties.
 
 ## How It Works
